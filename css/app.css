@@ -90,6 +90,8 @@ h1 {
 
 #results {
   font-size: 1.4rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.8;
   text-align: center;
   width: 42rem;
 }
